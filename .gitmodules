@@ -1,0 +1,12 @@
+[submodule "AudiBook-SOAP"]
+	path = AudiBook-SOAP
+	url = https://github.com/AJason36/SOAP-Service-IF3110-2023-02-10
+[submodule "AudiBook-SPA"]
+	path = AudiBook-SPA
+	url = https://github.com/AJason36/Client-SPA_IF3110-2023-02-10
+[submodule "AudiBook-PHP"]
+	path = AudiBook-PHP
+	url = https://github.com/AJason36/PHP-ServiceApp-IF3110-2023-02-10
+[submodule "AudiBook-REST"]
+	path = AudiBook-REST
+	url = https://github.com/AJason36/REST-Service-IF3110-2023-02-10
